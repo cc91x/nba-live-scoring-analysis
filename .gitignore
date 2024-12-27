@@ -1,0 +1,11 @@
+/airflow/dags/__pycache__
+/airflow/airflow.db
+/airflow/airflow-webserver.pid
+/airflow/webserver_config.py
+/airflow/logs
+/__pycache__
+/.vscode
+/logs
+/python/__pycache__
+.DS_Store
+/notes

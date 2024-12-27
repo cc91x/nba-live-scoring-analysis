@@ -1,0 +1,8 @@
+database:
+    schema: "local-nba-project"
+    host: "localhost"
+    port: 27017
+    
+oddsApi:
+    baseUrl: "https://api.the-odds-api.com"
+    key: # Input api key here
