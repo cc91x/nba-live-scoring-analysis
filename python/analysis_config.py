@@ -1,6 +1,6 @@
 """ Contains filter parameters for our data analysis """
 
-# Pregame Filters. By default, leaving blank [] will apply no filter for each filer type.
+# Pregame Filters. By default, leaving blank [] will apply no filter for each filter type.
 
 # Team IDs, as strings, ex. ['1610612739', '1610612739']
 AWAY_TEAM_IDS = []
